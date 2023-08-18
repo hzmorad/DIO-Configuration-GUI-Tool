@@ -1,4 +1,4 @@
-DIO-Configuration-GUI-Tool
+DIO-Configuration-GUI-Tool (Running)
 ==========================
 - The tool shall be able to configure all the micro-controller pins.
 - Each pin shall have the following configurations
